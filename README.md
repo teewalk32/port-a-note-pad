@@ -14,11 +14,13 @@ Node modules, and package.json must be installed for this application.
 
 Click the Get Started button. Then add new notes as needed.
 
-<!-- ![alt text](assets/images/screenshot.png) -->
+![note-taker.png](./public/assets/note-taker.png)
 
 ## Credits
 
-N/A
+Class lesson was use to help get code started.
+
+https://www.geeksforgeeks.org/express-js-res-sendfile-function/
 
 ## License
 
